@@ -1,3 +1,2 @@
 # venkatkarthiportfolio
-portfolio
-![Image](https://github.com/user-attachments/assets/82876be2-888d-46a1-aed0-dcbd75e3ef17)
+portfolio![Image](https://github.com/user-attachments/assets/c9e24dd8-4b43-4867-a7d3-2f41ef0e7ab8)
